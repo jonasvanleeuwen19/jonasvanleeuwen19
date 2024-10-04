@@ -1,7 +1,4 @@
 # Hi there, I'm Jonas! 👋
-![Yixboost Games Developer](https://img.shields.io/badge/Yixboost_Games_Developer-blue?style=for-the-badge)
-![Programmer](https://img.shields.io/badge/Programmer-green?style=for-the-badge)
-![Hacker](https://img.shields.io/badge/Hacker-black?style=for-the-badge)
 
 I'm a 14-year-old programmer from the Netherlands. I specialize in **HTML**, **CSS**, **Node.js**, **Python**, and **PHP**. I'm also a passionate Linux user, constantly learning and exploring new technologies. My main project is [Yixboost Games](http://yixboost.nl.eu.org), a gaming website where I combine my love for coding and gaming. 
 
