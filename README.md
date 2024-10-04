@@ -17,4 +17,10 @@ Feel free to explore my [projects](https://jonasvanleeuwen19.github.io)!
 
 ![Jonas' GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasvanleeuwen19&show_icons=true&theme=dark)
 
+### Notable Projects
+- [Yixboost Games](http://yixboost.nl.eu.org): My gaming website where I share unblocked games.
+- [Minecraft with Ursina](https://github.com/Yixboost/Minecraft-with-Ursina-Python): A Minecraft clone built with Python and Ursina.
+
+
+
 
