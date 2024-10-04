@@ -16,7 +16,5 @@ Feel free to explore my [projects](https://jonasvanleeuwen19.github.io)!
 ### My GitHub Stats
 
 ![Jonas' GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasvanleeuwen19&show_icons=true&theme=dark)
-![Profile Views](https://komarev.com/ghpvc/?username=jonasvanleeuwen19&color=blueviolet&style=flat-square)
 
-[![Jonas' github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jonasvanleeuwen19&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
