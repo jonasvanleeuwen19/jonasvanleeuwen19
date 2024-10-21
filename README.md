@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=007bff&height=300&section=header&text=Jonasvanleeuwen19&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Yixboost%20Games%20Developer&descAlignY=51&descAlign=62&descFontColor=ffffff)
+
 # Hi there, I'm Jonas! 👋
 
 I'm a 14-year-old programmer from the Netherlands. I specialize in **HTML**, **CSS**, **Node.js**, **Python**, and **PHP**. I'm also a passionate Linux user, constantly learning and exploring new technologies. My main project is [Yixboost Games](http://yixboost.nl.eu.org), a gaming website where I combine my love for coding and gaming. 
