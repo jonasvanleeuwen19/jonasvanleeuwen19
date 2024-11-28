@@ -19,6 +19,12 @@ Feel free to explore my [projects](https://jonasvanleeuwen19.github.io)!
 
 ![Jonas' GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasvanleeuwen19&show_icons=true&theme=dark)
 
+---
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/jonasvanleeuwen19/count.svg" />
+</p>
+
 
 
 
