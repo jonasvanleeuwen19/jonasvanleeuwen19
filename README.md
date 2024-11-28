@@ -21,7 +21,7 @@ Feel free to explore my [projects](https://jonasvanleeuwen19.github.io)!
 
 ---
 <p align="center"> 
-  Visitors count<br>
+  <strong>Visitors Count:</strong><br>
   <img src="https://profile-counter.glitch.me/jonasvanleeuwen19/count.svg" />
 </p>
 
