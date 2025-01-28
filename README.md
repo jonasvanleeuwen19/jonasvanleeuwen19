@@ -2,7 +2,7 @@
 
 # Hi there, I'm Jonas! 👋
 
-I'm a 14-year-old programmer from the Netherlands. I specialize in **HTML**, **CSS**, **Node.js**, **Python**, and **PHP**. I'm also a passionate Linux user, constantly learning and exploring new technologies. My main project is [Yixboost Games](http://yixboost.nl.eu.org), a gaming website where I combine my love for coding and gaming. 
+I'm a 14-year-old programmer from the Netherlands. I specialize in **HTML**, **CSS**, **Node.js**, **Python**, and **PHP**. I'm also a passionate Linux user, constantly learning and exploring new technologies. I like to develop Yixboost Applications.
 
 ### My Skills
 
