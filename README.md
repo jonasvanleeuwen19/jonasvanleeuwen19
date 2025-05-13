@@ -4,6 +4,8 @@
 
 I'm a 14-year-old programmer from the Netherlands. I specialize in **HTML**, **CSS**, **Node.js**, **Python**, and **PHP**. I'm also a passionate Linux user, constantly learning and exploring new technologies. I like to develop Yixboost Applications.
 
+[Yixboost Games Profile](https://play.yixboost.dev/p/user?id=1)
+
 ### My Skills
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
