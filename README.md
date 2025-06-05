@@ -15,7 +15,7 @@ I'm a programmer from the Netherlands. I like to do things with **HTML**, **CSS*
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-Feel free to explore my [projects](https://jonasvanleeuwen19.github.io)!
+Feel free to explore my [projects](https://jonas.yixboost.dev)!
 
 ### My GitHub Stats
 
