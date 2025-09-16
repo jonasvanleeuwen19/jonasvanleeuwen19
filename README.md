@@ -21,11 +21,6 @@ Feel free to explore my [projects](https://jonas.yixboost.dev)!
 
 ![Jonas' GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasvanleeuwen19&show_icons=true&theme=dark)
 
----
-<p align="center"> 
-  <strong>Visitors Count:</strong><br>
-  <img src="https://profile-counter.glitch.me/jonasvanleeuwen19/count.svg" />
-</p>
 
 
 
