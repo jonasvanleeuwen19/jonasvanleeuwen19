@@ -4,7 +4,7 @@
 
 I'm a programmer from the Netherlands. I like to do things with **HTML**, **CSS**, **Node.js**, **Python**, and **PHP**. I'm also a Linux user, constantly learning and exploring new technologies. I like to develop Yixboost Applications.
 
-[Yixboost Games Profile](https://play.yixboost.dev/p/user?id=1)
+[Yixboost Games Profile](https://yixboost.eu/user/jonas)
 
 ### My Skills
 
@@ -16,12 +16,4 @@ I'm a programmer from the Netherlands. I like to do things with **HTML**, **CSS*
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 Feel free to explore my [projects](https://jonas.yixboost.dev)!
-
-### My GitHub Stats
-
-![Jonas' GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasvanleeuwen19&show_icons=true&theme=dark)
-
-
-
-
 
